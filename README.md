@@ -17,7 +17,7 @@ If you use *Agrigento* in a scientific publication, we would appreciate citation
   title = {{Obfuscation-Resilient Privacy Leak Detection for Mobile Apps Through Differential Analysis}},
   booktitle = {Proceedings of the ISOC Network and Distributed System Security Symposium (NDSS)},
   month = {February},
-  year = {2017},
+  year = {2020},
   address = {San Diego, CA}
 }
 ```
